@@ -1,0 +1,12 @@
+
+.post-thumbnail img {
+  height: 400px;
+  width: 100%;
+}
+.login-form {
+  display: flex;
+  justify-content: center;
+}
+.login-form form {
+  min-width: 350px;
+}
